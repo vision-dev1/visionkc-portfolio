@@ -1,3 +1,4 @@
+// Vision KC Portfolio
 document.addEventListener('DOMContentLoaded', () => {
 
     AOS.init({
