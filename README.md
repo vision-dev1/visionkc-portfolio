@@ -2,13 +2,13 @@
 
 > Live at **[visionkc.com.np](https://visionkc.com.np)**
 
-A personal portfolio website for **Vision KC** — BSc. Hons student majoring in Cybersecurity, developer, and ethical hacking enthusiast based in Kathmandu, Nepal.
+A personal portfolio website for **Vision KC** — Bcs. Hons student majoring in Cybersecurity, developer, and ethical hacking enthusiast based in Kathmandu, Nepal.
 
 ---
 
 ## 👤 About
 
-This portfolio showcases the work of Vision KC, a developer and cybersecurity analyst who blends offensive security learning with building secure, user-focused web applications. With 15+ completed projects spanning cybersecurity, machine learning, and web development, the site serves as a central hub for projects, skills, and professional information.
+This portfolio showcases the work of Vision KC, a developer and cybersecurity analyst who blends offensive security learning with building secure, user-focused web applications. With 25+ completed projects spanning cybersecurity, machine learning, and web development, the site serves as a central hub for projects, skills, and professional information.
 
 ---
 
@@ -86,5 +86,3 @@ visionkc-portfolio/
 This project is for personal/portfolio use. Feel free to draw inspiration, but please do not directly copy or redistribute without permission.
 
 ---
-
-*Built with curiosity, caffeine, and a commitment to security.* 🛡️
