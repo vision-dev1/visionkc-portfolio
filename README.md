@@ -78,7 +78,7 @@ visionkc-portfolio/
 
 - **Live Site:** [Portfolio](https://visionkc.com.np)
 - **GitHub Profile:** [Github](https://github.com/vision-dev1)
-- **Linkedin Profile:** [Linkedin](https://www.linkedin/in/visionkc)
+- **Linkedin Profile:** [Linkedin](https://np.linkedin.com/in/visionkc))
 
 ---
 
