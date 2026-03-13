@@ -76,7 +76,7 @@ visionkc-portfolio/
 
 ## 🔗 Links
 
-- **Live Site:** [visionkc.com.np](https://visionkc.com.np)
+- **Live Site:** [Portfolio](https://visionkc.com.np)
 - **GitHub Profile:** [github.com/vision-dev1](https://github.com/vision-dev1)
 
 ---
