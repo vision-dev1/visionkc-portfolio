@@ -63,9 +63,11 @@ npm start
 Open http://localhost:3000 in your browser.
 
 ### Building for Production
-bashnpm run build
+```bash
+npm run build
 # or
 yarn build
+```
 The optimized output will be in the build/ directory.
 
 ## 📁 Project Structure
