@@ -36,28 +36,37 @@ This portfolio showcases the work of Vision KC, a developer and cybersecurity an
 ## 🚀 Getting Started
 
 ### Prerequisites
+Make sure you have the following installed:
 
-- A modern web browser
-- Git
+Node.js (v18 or higher recommended)
+npm or yarn
 
 ### Clone & Run
 ```bash
 git clone https://github.com/vision-dev1/visionkc-portfolio.git
 cd visionkc-portfolio
 ```
+### Install dependencies
+'''bash  
+npm install
+   # or
+   yarn install
+'''
 
-Open `index.html` in your browser, or serve with a local dev server:
-```bash
-# Using Python
-python3 -m http.server 8000
+### Start the development server
+'''bash
+npm start
+   # or
+   yarn start
+'''
 
-# Using Node.js (npx)
-npx serve .
-```
+Open http://localhost:3000 in your browser.
 
-Then visit `http://localhost:8000`.
-
----
+### Building for Production
+bashnpm run build
+# or
+yarn build
+The optimized output will be in the build/ directory.
 
 ## 📁 Project Structure
 ```
