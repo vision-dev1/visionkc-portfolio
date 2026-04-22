@@ -43,7 +43,7 @@ npm or yarn
 
 ### Clone & Run
 ```bash
-git clone https://github.com/vision-dev1/visionkc-portfolio.git
+git clone https://github.com/visionxstack/visionkc-portfolio.git
 cd visionkc-portfolio
 ```
 ### Install dependencies
@@ -91,7 +91,7 @@ visionkc-portfolio/
 ## 🔗 Links
 
 - **Live Site:** [Portfolio](https://visionkc.com.np)
-- **GitHub Profile:** [Github](https://github.com/vision-dev1)
+- **GitHub Profile:** [Github](https://github.com/visionxstack)
 - **Linkedin Profile:** [Linkedin](https://np.linkedin.com/in/visionkc)
 
 ---
